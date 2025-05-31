@@ -519,7 +519,7 @@ body {
 }
 .phone-mockup {
   z-index: 10;
-  background-image: url(../src/assets/images/phone-mockup.png);
+  background-image: url(assets/images/phone-mockup.png);
   background-position: 50%;
   background-repeat: no-repeat;
   height: 48rem;
@@ -610,7 +610,7 @@ body {
   }
 }
 .phone-media-box__images--1 {
-  background-image: url(../src/assets/images/banner/1.jpg);
+  background-image: url(assets/images/banner/1.jpg);
   transform: translate3d(39vw, -120vh, 0px) scale3d(1, 1, 1);
 }
 @media (max-width: 1024px) {
@@ -619,7 +619,7 @@ body {
   }
 }
 .phone-media-box__images--2 {
-  background-image: url(../src/assets/images/banner/2.jpg);
+  background-image: url(assets/images/banner/2.jpg);
   transform: translate3d(41vw, -60vh, 0px) scale3d(1, 1, 1);
 }
 @media (max-width: 1024px) {
@@ -628,7 +628,7 @@ body {
   }
 }
 .phone-media-box__images--3 {
-  background-image: url(../src/assets/images/banner/3.jpg);
+  background-image: url(assets/images/banner/3.jpg);
   transform: translate3d(14vw, -55vh, 0px) scale3d(1, 1, 1);
   height: 12.5rem;
 }
@@ -639,7 +639,7 @@ body {
   }
 }
 .phone-media-box__images--4 {
-  background-image: url(../src/assets/images/banner/4.jpg);
+  background-image: url(assets/images/banner/4.jpg);
   transform: translate3d(18vw, -100vh, 0px) scale3d(1, 1, 1);
   height: 23.75rem;
 }
@@ -650,7 +650,7 @@ body {
   }
 }
 .phone-media-box__images--5 {
-  background-image: url(../src/assets/images/banner/5.jpg);
+  background-image: url(assets/images/banner/5.jpg);
   transform: translate3d(41vw, -95vh, 0px) scale3d(1, 1, 1);
   height: 21.25rem;
 }
@@ -661,7 +661,7 @@ body {
   }
 }
 .phone-media-box__images--6 {
-  background-image: url(../src/assets/images/banner/6.jpg);
+  background-image: url(assets/images/banner/6.jpg);
   background-size: cover;
   transform: translate3d(30vw, -80vh, 0px) scale3d(1, 1, 1);
   height: 22.5rem;
@@ -815,7 +815,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../src/assets/images/device/friends/imgHeader.png);
+  background-image: url(assets/images/device/friends/imgHeader.png);
   background-position: 50% 0;
   background-size: 100%;
   padding: 1.5rem 0.625rem;
@@ -839,7 +839,7 @@ body {
   vertical-align: middle;
 }
 .phone-flow__friends--feed {
-  background-image: url(../src/assets/images/device/friends/imgFeed.jpg);
+  background-image: url(assets/images/device/friends/imgFeed.jpg);
   background-color: #ffffff;
   background-size: cover;
   width: 100%;
@@ -878,7 +878,7 @@ body {
 .phone-flow__slots {
   height: 45.625rem;
   width: 22.5rem;
-  background-image: url(../src/assets/images/device/slots/imgDescription.jpg);
+  background-image: url(assets/images/device/slots/imgDescription.jpg);
   background-size: cover;
   position: absolute;
   transform: translate(0, 100vh);
@@ -889,7 +889,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(../src/assets/images/device/expand/main.jpg);
+  background-image: url(assets/images/device/expand/main.jpg);
   background-size: cover;
 }
 @media (max-width: 1024px) {
@@ -928,26 +928,26 @@ body {
   transform: translate(0px, 0px);
 }
 .phone-burst-box__image1 {
-  background-image: url(../src/assets/images/device/expand/main.jpg);
+  background-image: url(assets/images/device/expand/main.jpg);
   z-index: 6;
 }
 .phone-burst-box__image2 {
-  background-image: url(../src/assets/images/device/expand/img2.jpeg);
+  background-image: url(assets/images/device/expand/img2.jpeg);
   z-index: 5;
 }
 .phone-burst-box__image3 {
-  background-image: url(../src/assets/images/device/expand/img3.jpg);
+  background-image: url(assets/images/device/expand/img3.jpg);
   z-index: 4;
 }
 .phone-burst-box__image4 {
-  background-image: url(../src/assets/images/device/expand/img4.jpg);
+  background-image: url(assets/images/device/expand/img4.jpg);
   z-index: 3;
 }
 .phone-burst-box__image5 {
-  background-image: url(../src/assets/images/device/expand/img5.jpg);
+  background-image: url(assets/images/device/expand/img5.jpg);
 }
 .phone-burst-box__image6 {
-  background-image: url(../src/assets/images/device/expand/img6.jpg);
+  background-image: url(assets/images/device/expand/img6.jpg);
 }
 
 .wide-space {

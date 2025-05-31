@@ -63,6 +63,7 @@ body {
 }
 .header .logo__image {
   width: 12vw;
+  max-width: 10vw;
 }
 @media (max-width: 1024rem) {
   .header .logo__image {
@@ -319,9 +320,6 @@ body {
   flex-direction: column;
   background-color: rgba(0, 0, 0, 0);
   z-index: 2;
-}
-.main-description__top {
-  height: 140vh;
 }
 .main-description .left-align {
   display: flex;
@@ -777,7 +775,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .phone-flow__navbar {
   height: 4.375rem;
